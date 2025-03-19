@@ -1,2 +1,2 @@
 # AmigoSecreto
-Desafio amifo secretro alura latam
+Desafio amigo secretro alura latam
